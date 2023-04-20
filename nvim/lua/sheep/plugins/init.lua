@@ -1,0 +1,8 @@
+-- require("sheep.plugins.color")
+-- require("sheep.plugins.harpoon")
+-- require("sheep.plugins.lsp")
+-- require("sheep.plugins.telescope")
+-- require("sheep.plugins.treesitter")
+-- require("sheep.plugins.trouble")
+-- require("sheep.plugins.undotree")
+-- require("sheep.plugins.zenmode")
